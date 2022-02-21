@@ -10,3 +10,13 @@ Institute Management System for Global Education Institution
 * Backend <p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 * Database Server <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+
+
+### Interfaces
+<p align="left"> <img src="Screenshot 2.png" alt="Institute-Management-System" /> </p>
+<p align="left"> <img src="Screenshot 1.png" alt="Institute-Management-System" /> </p>
+<p align="left"> <img src="Screenshot 3.png" alt="Institute-Management-System" /> </p>
+<p align="left"> <img src="Screenshot 6.png" alt="Institute-Management-System" /> </p>
+<p align="left"> <img src="Screenshot 4.png" alt="Institute-Management-System" /> </p>
+<p align="left"> <img src="Screenshot 5.png" alt="Institute-Management-System" /> </p>
+<p align="left"> <img src="Screenshot 7.png" alt="Institute-Management-System" /> </p>
