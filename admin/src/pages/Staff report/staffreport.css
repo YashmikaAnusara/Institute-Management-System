@@ -19,7 +19,7 @@
     padding: 20px;
 }
 .aling{
-    padding-left: 380px;
+    /* padding-left: 380px; */
     margin-bottom: 25px;
 }
 .topic-report{
@@ -64,9 +64,9 @@
   }
   .btn1234{
     top: auto;
-    width: 35ch;
+    width: 20ch;
 }
 .marginaling{
     /* margin-top: 10px; */
-    margin-left: 900px;
+    margin-left: 950px;
 }

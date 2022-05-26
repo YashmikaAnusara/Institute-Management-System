@@ -166,8 +166,8 @@ export default function Paysalary(){
                 <Button variant="contained" className='btn' color="primary"> Reset </Button>
                 </div> */}
                 </form>
-                <h2 className="total">Total Employee Salary</h2><br/>
-                <h2 className="totalvalue"> Rs.{allowance + b}.00</h2>
+                <h3 className="total">Total Employee Salary</h3><br/>
+                <h3 className="totalvalue"> Rs.{allowance + b}.00</h3>
 
                 <Snackbar open={pop} autoHideDuration={6000} onClose={handleClose}>
                   <Alert onClose={handleClose} severity="warning">No Allowance Given</Alert>

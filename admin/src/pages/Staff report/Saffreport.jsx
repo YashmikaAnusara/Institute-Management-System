@@ -59,7 +59,7 @@ export default function Staffreport({search,setSearch}){
   return (
       <div className="newstaff">
         <div className="marginaling">
-        <Button color="primary" variant="contained" className="btn1234" onClick={handlePrint}>Download PDF</Button>
+        <Button color="primary" variant="contained" className="btn1234" onClick={handlePrint}>Print PDF</Button>
         </div>
     <div className="scroll-bgn">
       <div className="scroll-divn">

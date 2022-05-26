@@ -11,12 +11,14 @@
     width: 396px;
   }
   .total{
-    margin-left: 885px;
+    margin-left: 800px;
     margin-top: -391px;
+    color: black;
   }
   .totalvalue{
-    margin-left: 940px;
-    margin-top: 2px;
+    margin-left: 900px;
+    /* margin-top: 2px; */
+    color: black;
   }
   .checkbtn{
     margin-top: 27px;
